@@ -15,5 +15,3 @@ export default function useCurrencyInfo(currency: string) {
 
 	return data;
 }
-
-
